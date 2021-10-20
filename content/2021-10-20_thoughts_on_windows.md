@@ -9,7 +9,7 @@ kernelspec:
   language: python
   name: python3
 author: David Marx
-date: 2021-10-20
+date: '2021-10-20'
 ---
 
 # Some thoughts on Windows
